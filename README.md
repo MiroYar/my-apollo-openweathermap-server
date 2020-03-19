@@ -1,7 +1,5 @@
 # my-apollo-openweathermap-server
 
-Created with CodeSandbox
-
 Легкий [Apollo](https://www.apollographql.com/docs/apollo-server/) сервер для получения данных с сайта погоды [openweathermap.org](openweathermap.org) при разработке приложений с системой запрсов данных на основе [Apollo](https://www.apollographql.com/docs/react/) клиент.
 
 ## Использование
