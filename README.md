@@ -48,7 +48,7 @@ getCurrentWeather(cityName: String, countryCode: String) {}
 
 ## Схема тела запроса
 
-В комментариях ожидаемый тип ответа
+В комментариях ожидаемый тип ответа \*
 
 ```js
 getWeather(cityName: String, countryCode: String) {
@@ -178,3 +178,5 @@ getCurrentWeather(cityName: String, countryCode: String) {
     cod // Int
 }
 ```
+
+-   Если нашли ошибку в схеме, то просьба предоставить полную корректную схему, либо не беспокоить.
