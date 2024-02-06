@@ -32,10 +32,10 @@ const PORT = 4000;
 
 ### Сервер онлайн
 
-Также можно использовать развернутый онлайн сервер на [Codesandbox.io](https://codesandbox.io/). В таком случае точка подключения к серверу:
+Также можно использовать развернутый онлайн сервер на [Codesandbox.io](https://codesandbox.io/p/devbox/my-apollo-openweathermap-server-7b3u2). В таком случае точка подключения к серверу:
 
 ```
-https://7b3u2.sse.codesandbox.io/
+https://7b3u2-4000.csb.app/
 ```
 
 ## Query запросы
